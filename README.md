@@ -2,7 +2,7 @@
 #Here I am accessing the .csv file from my drive,
 #But you can get and use this for your project from this drive link "https://drive.google.com/file/d/1Ugi-yYWJnoiev5cXkDYWVE0QpPvUcnhb/view?usp=drive_link"
 
-#here, I used crime data of Los Angeles from 2020 to the present
+Here, I used crime data of Los Angeles from 2020 to the present
 #here are six figures I have  shown in my project
 1. Top ten crimes in Los Angeles 
 2. Crime Frequency by Month (2020-2023)
