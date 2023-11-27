@@ -13,4 +13,4 @@ Here, I used crime data of Los Angeles from 2020 to the present
 5. Top Areas with Most Crimes
 6. Top 10 Areas with the Lowest Number of Crimes
 # 5,6 figures show extremely high and extremely low values of my data
-Also, at last, you will find a heat map, which will directly open in your browser, and you can see where crime happens most and which area is most vulnerable. 
+Lastly, after you run the project, you will see a heat map, which will directly open in your browser, and you can see where crime happens most and which area is most vulnerable, and which areas are less vulnerable.
