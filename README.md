@@ -5,7 +5,7 @@
 #also, you can visit this link to get data `https://catalog.data.gov/dataset/crime-data-from-2020-to-present`
 
 Here, I used crime data of Los Angeles from 2020 to the present
-#here are six figures I have  shown in my project
+there are six figures I have  shown in my project
 1. Top ten crimes in Los Angeles 
 2. Crime Frequency by Month (2020-2023)
 3. Crime Occurrence by Time of Day Each Month
